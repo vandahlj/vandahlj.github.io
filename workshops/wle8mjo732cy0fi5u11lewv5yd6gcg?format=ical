@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:583f3ff9be6594419e2c8af6@squarespace.com
+DTSTAMP:20161130T212621Z
+DTSTART:20170225T180000Z
+DTEND:20170226T000000Z
+SUMMARY:Dream Chaser Visionboard
+GEO:49.282729;-123.120738
+LOCATION:Refresh Counselling and Expressive arts\, #203-4381 Fraser Street\
+ , at Tapestry Counselling Centre\, Vancouver\, BC\, Canada
+END:VEVENT
+END:VCALENDAR
